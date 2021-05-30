@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 "feature 1 with 2 bugs
 feature 2 wip"
+=======
+results in
+"feature 1 with 1 bug"
+>>>>>>> e4cda7a (no message)
